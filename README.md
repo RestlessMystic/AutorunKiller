@@ -31,3 +31,4 @@ Working
 6. Save the file.
 7. Double Click the file to Run.
 
+NOTE : Dont run this script with the removable devices provided with softwares, with licensing information.
